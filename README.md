@@ -1,4 +1,8 @@
+## Exploratory Data Analysis Course Project 1
+
 This is the repositery where you can find my work ask for the online course Exploratory Data Analysis.
+
+## Explication
 
 In order to have a dataset lighter and easier to work with you will find in the main directory a file named : household_power_consumption2.txt this
 file is juste the subset of the origial file for the two day we want to analyse. 
